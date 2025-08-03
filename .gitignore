@@ -1,0 +1,37 @@
+# Lake build directory
+/.lake
+
+# Lean build artifacts
+*.olean
+*.ilean
+*.trace
+*.d
+
+# Lake cache
+/lake-packages/
+
+# VS Code settings (optional - remove if you want to share VS Code config)
+.vscode/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Editor backups
+*#
+.#*

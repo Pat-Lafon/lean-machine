@@ -1,0 +1,10 @@
+name = "lean-machine"
+version = "0.1.0"
+defaultTargets = ["lean-machine"]
+
+[[lean_lib]]
+name = "LeanMachine"
+
+[[lean_exe]]
+name = "lean-machine"
+root = "Main"

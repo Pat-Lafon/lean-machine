@@ -1,4 +1,4 @@
-import Untitled
+import LeanMachine
 
 def main : IO Unit :=
   IO.println s!"Hello, {hello}!"
